@@ -612,6 +612,7 @@ body[data-magic-cursor="hide"] .mouse-cursor {
 .shape {
   content: "";
   position: absolute;
+
   width: 2000px;
   height: 2000px;
   top: -70%;
